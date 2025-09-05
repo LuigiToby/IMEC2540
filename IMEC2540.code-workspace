@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "control_robot",
+			"path": "complemetaria/lab1/bono/control_robot"
+		}
+	],
+	"settings": {}
+}
